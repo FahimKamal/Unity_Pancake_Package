@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   adCheckingInterval: 8
   adLoadingInterval: 15
-  currentNetwork: 0
+  currentNetwork: 1
   admobEnableTestMode: 0
   admobDevicesTest: []
-  admobClient: {fileID: 0}
-  admobBanner: {fileID: 0}
-  admobInter: {fileID: 0}
-  admobReward: {fileID: 0}
-  admobRewardInter: {fileID: 0}
-  admobAppOpen: {fileID: 0}
+  admobClient: {fileID: 11400000, guid: 0210536f8f46a00418c20dab1112dfd5, type: 2}
+  admobBanner: {fileID: 11400000, guid: 791e488e63da7a348a9a9bf3f1770510, type: 2}
+  admobInter: {fileID: 11400000, guid: f0b9005270bb3af45b6ae801061ab46f, type: 2}
+  admobReward: {fileID: 11400000, guid: 66165dde5fbaaa340bb213723c39b5c8, type: 2}
+  admobRewardInter: {fileID: 11400000, guid: 1ab201044bb197d47a901bf495242243, type: 2}
+  admobAppOpen: {fileID: 11400000, guid: 28d3e42b1ed5c02409ec775518536281, type: 2}
   sdkKey: 
   applovinClient: {fileID: 0}
   applovinBanner: {fileID: 0}
