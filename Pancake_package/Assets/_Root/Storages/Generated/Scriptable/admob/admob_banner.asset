@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cd1102d17c74af3b3770d6e33f86e13, type: 3}
   m_Name: admob_banner
   m_EditorClassIdentifier: 
-  androidId: 
+  androidId: ca-app-pub-3940256099942544/6300978111
   size: 5
   position: 0

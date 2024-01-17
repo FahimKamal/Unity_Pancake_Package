@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc62dda0f01d4134bb1841f01cb75c46, type: 3}
+  m_Name: AdSettings
+  m_EditorClassIdentifier: 
+  adCheckingInterval: 8
+  adLoadingInterval: 15
+  currentNetwork: 1
+  admobEnableTestMode: 0
+  admobDevicesTest: []
+  admobClient: {fileID: 11400000, guid: 46cb2f1f550956b488d24515d43de183, type: 2}
+  admobBanner: {fileID: 11400000, guid: 4dcdc534cdff2f546946e1775d10162f, type: 2}
+  admobInter: {fileID: 11400000, guid: 59366e14475e4f341b195f4956e43ea2, type: 2}
+  admobReward: {fileID: 11400000, guid: a92a2d37f7de54b468395e3c4752723a, type: 2}
+  admobRewardInter: {fileID: 11400000, guid: ae1b8790d72dcbd4a924a58b5655c7f5, type: 2}
+  admobAppOpen: {fileID: 11400000, guid: 04fdf611713e5f4499760a93d46f372e, type: 2}
+  sdkKey: 
+  applovinClient: {fileID: 0}
+  applovinBanner: {fileID: 0}
+  applovinInter: {fileID: 0}
+  applovinReward: {fileID: 0}
+  applovinRewardInter: {fileID: 0}
+  applovinAppOpen: {fileID: 0}
+  applovinEnableAgeRestrictedUser: 0

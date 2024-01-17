@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09f94c9fabd344b68e261804e03500f6, type: 3}
   m_Name: admob_reward
   m_EditorClassIdentifier: 
-  androidId: 
+  androidId: ca-app-pub-3940256099942544/5224354917
